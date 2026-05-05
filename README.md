@@ -67,7 +67,6 @@ Rank-Based Alignment → Combined Risk Score → LLM Explanation → Risk Report
 - **Rank-Based Alignment** — Cross-dataset ensemble integration
 - **LLM (Claude/GPT API)** — Generative AI for human-readable explanations
 
----
 
 ## Dataset
 | Dataset | Source | Purpose |
@@ -78,7 +77,7 @@ Rank-Based Alignment → Combined Risk Score → LLM Explanation → Risk Report
 ---
 
 ## Repository Structure
-
+```
 FraudRadar-AU/
 ├── data/
 │   ├── processed/
@@ -97,6 +96,7 @@ FraudRadar-AU/
 │   └── DistilBERT_all_predictions.csv
 ├── README.md
 └── requirements.txt
+```
 ---
 
 ## Setup Instructions
