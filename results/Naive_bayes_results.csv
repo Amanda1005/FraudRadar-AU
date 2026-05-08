@@ -1,4 +1,4 @@
-text,true_label,nb_probability,nb_prediction_default_0_5,nb_prediction_threshold_0_4,risk_tier
+text,true_label,nb_probability,nb_prediction_default_0_5,nb_prediction_threshold_0_5,risk_tier
 "Hi babe its Chloe, how r u? I was smashed on saturday night, it was great! How was your weekend? U been missing me? SP visionsms.com Text stop to stop 150p/text",1,0.9791806783560769,1,1,HIGH
 Win a å£1000 cash prize or a prize worth å£5000,1,0.9999999862830721,1,1,HIGH
 A å£400 XMAS REWARD IS WAITING FOR YOU! Our computer has randomly picked you from our loyal mobile customers to receive a å£400 reward. Just call 09066380611 ,1,0.9999013716505699,1,1,HIGH
