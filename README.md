@@ -123,6 +123,5 @@ pip install -r requirements.txt
 ---
 
 ## Data Sources
-- Scamwatch 2024 Annual Report: https://www.scamwatch.gov.au
 - SMS Spam Collection: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 - Counterfeit Products: https://www.kaggle.com/datasets/aimlveera/counterfeit-product-detection-dataset
